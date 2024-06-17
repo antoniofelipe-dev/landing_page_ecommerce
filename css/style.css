@@ -430,6 +430,11 @@ video {
   height: auto;
 }
 
+/* Editando tamanho da nova logo */
+.logo{
+  height: 150px;
+}
+
 /* Make elements with the HTML hidden attribute stay hidden by default */
 
 [hidden] {
